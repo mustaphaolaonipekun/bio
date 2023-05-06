@@ -10,7 +10,7 @@ Software developer (javascript, React.js, Node.js)
 * 🤝  I'm open to collaborating on intresting and awesome projects🤝
 * ⚡  i was born hungry for 'Success' 🥰
 
-<a href=https://twitter.com/MustyKhan13?t=H2b6pEVNRaPEHqAqtmCbjQ&s=09 target="_blank" rel="noreferrer"><img
+<a href=https://twitter.com/MustyKhan13 target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Mustykhan?logo=twitter&style=for-the-badge&color=6366f1&labelColor=581c87"
 /></a>
 
