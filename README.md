@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olaonipekun Mustapha 😍
 ===============================================================================================================================================
 
-Web developer (javascript, React.js, Node.js)
+Software developer (javascript, React.js, Node.js)
 ---------------------------------------------
 
 * 🌍  I'm based in Lagos Nigeria
 * ✉️  You can contact me at [olaonipekunmustapha47@gmail.com](mailto:olaonipekunmustapha47@gmail.com)
 * 🧠  I'm learning javascript,React.js,Node.js
 * 🤝  I'm open to collaborating on intresting and awesome projects🤝
-* ⚡  i was born hungry for 'Sucess' 🥰
+* ⚡  i was born hungry for 'Success' 🥰
 
 <a href="https://www.twitter.com/Mustykhan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Mustykhan?logo=twitter&style=for-the-badge&color=6366f1&labelColor=581c87"
